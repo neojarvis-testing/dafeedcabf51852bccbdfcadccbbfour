@@ -2654,3 +2654,405 @@
 2025-06-17 08:08:41,319 INFO spawned: 'metastore' with pid 69002
 2025-06-17 08:08:43,232 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2025-06-17 08:08:46,876 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:08:47,878 INFO spawned: 'metastore' with pid 69154
+2025-06-17 08:08:48,396 INFO reaped unknown pid 69228 (exit status 0)
+2025-06-17 08:08:48,919 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:08:57,427 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:08:58,430 INFO spawned: 'metastore' with pid 69483
+2025-06-17 08:08:59,548 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:06,981 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:07,983 INFO spawned: 'metastore' with pid 70064
+2025-06-17 08:09:09,028 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:13,554 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:14,556 INFO spawned: 'metastore' with pid 70176
+2025-06-17 08:09:16,477 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:20,079 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:21,081 INFO spawned: 'metastore' with pid 70293
+2025-06-17 08:09:22,981 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:26,532 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:27,534 INFO spawned: 'metastore' with pid 70393
+2025-06-17 08:09:29,481 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:32,920 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:33,922 INFO spawned: 'metastore' with pid 70499
+2025-06-17 08:09:35,899 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:39,273 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:40,276 INFO spawned: 'metastore' with pid 70616
+2025-06-17 08:09:42,228 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:45,776 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:46,779 INFO spawned: 'metastore' with pid 70719
+2025-06-17 08:09:48,775 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:09:52,681 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:09:53,684 INFO spawned: 'metastore' with pid 70984
+2025-06-17 08:09:55,173 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:02,103 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:03,106 INFO spawned: 'metastore' with pid 71201
+2025-06-17 08:10:04,436 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:10,349 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:11,352 INFO spawned: 'metastore' with pid 71736
+2025-06-17 08:10:13,288 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:16,808 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:17,810 INFO spawned: 'metastore' with pid 71836
+2025-06-17 08:10:19,779 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:23,479 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:24,481 INFO spawned: 'metastore' with pid 71952
+2025-06-17 08:10:26,411 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:29,989 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:30,991 INFO spawned: 'metastore' with pid 72052
+2025-06-17 08:10:32,916 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:36,462 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:37,464 INFO spawned: 'metastore' with pid 72164
+2025-06-17 08:10:39,408 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:42,798 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:43,801 INFO spawned: 'metastore' with pid 72273
+2025-06-17 08:10:45,741 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:49,160 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:50,162 INFO spawned: 'metastore' with pid 72375
+2025-06-17 08:10:52,145 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:10:55,838 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:10:56,840 INFO spawned: 'metastore' with pid 72478
+2025-06-17 08:10:58,779 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:02,313 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:03,316 INFO spawned: 'metastore' with pid 72575
+2025-06-17 08:11:05,288 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:08,988 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:09,990 INFO spawned: 'metastore' with pid 72686
+2025-06-17 08:11:11,913 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:15,422 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:16,424 INFO spawned: 'metastore' with pid 72789
+2025-06-17 08:11:18,379 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:22,032 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:23,035 INFO spawned: 'metastore' with pid 72895
+2025-06-17 08:11:24,985 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:28,665 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:29,667 INFO spawned: 'metastore' with pid 72998
+2025-06-17 08:11:31,612 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:35,162 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:36,164 INFO spawned: 'metastore' with pid 73097
+2025-06-17 08:11:38,141 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:41,818 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:42,820 INFO spawned: 'metastore' with pid 73199
+2025-06-17 08:11:44,731 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:48,539 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:49,541 INFO spawned: 'metastore' with pid 73310
+2025-06-17 08:11:51,507 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:11:55,394 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:11:56,397 INFO spawned: 'metastore' with pid 73407
+2025-06-17 08:11:58,335 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:02,204 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:03,206 INFO spawned: 'metastore' with pid 73511
+2025-06-17 08:12:05,142 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:08,808 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:09,810 INFO spawned: 'metastore' with pid 73625
+2025-06-17 08:12:11,739 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:15,377 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:16,380 INFO spawned: 'metastore' with pid 73725
+2025-06-17 08:12:18,370 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:22,027 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:23,030 INFO spawned: 'metastore' with pid 73836
+2025-06-17 08:12:24,989 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:28,367 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:29,370 INFO spawned: 'metastore' with pid 73930
+2025-06-17 08:12:31,309 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:34,845 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:35,848 INFO spawned: 'metastore' with pid 74046
+2025-06-17 08:12:37,800 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:41,427 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:42,429 INFO spawned: 'metastore' with pid 74155
+2025-06-17 08:12:44,395 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:48,136 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:49,139 INFO spawned: 'metastore' with pid 74255
+2025-06-17 08:12:51,009 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:12:54,672 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:12:55,674 INFO spawned: 'metastore' with pid 74372
+2025-06-17 08:12:57,594 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:01,150 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:02,153 INFO spawned: 'metastore' with pid 74472
+2025-06-17 08:13:04,095 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:07,559 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:08,561 INFO spawned: 'metastore' with pid 74586
+2025-06-17 08:13:10,444 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:14,042 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:15,044 INFO spawned: 'metastore' with pid 74692
+2025-06-17 08:13:17,001 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:20,478 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:21,480 INFO spawned: 'metastore' with pid 74797
+2025-06-17 08:13:22,497 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:27,063 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:28,065 INFO spawned: 'metastore' with pid 74903
+2025-06-17 08:13:29,103 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:33,658 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:34,660 INFO spawned: 'metastore' with pid 75011
+2025-06-17 08:13:36,602 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:40,352 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:41,354 INFO spawned: 'metastore' with pid 75120
+2025-06-17 08:13:43,273 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:46,977 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:47,979 INFO spawned: 'metastore' with pid 75226
+2025-06-17 08:13:49,896 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:13:53,645 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:13:54,647 INFO spawned: 'metastore' with pid 75358
+2025-06-17 08:13:56,528 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:00,251 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:01,253 INFO spawned: 'metastore' with pid 75482
+2025-06-17 08:14:02,275 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:09,101 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:10,104 INFO spawned: 'metastore' with pid 75621
+2025-06-17 08:14:12,036 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:15,580 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:16,582 INFO spawned: 'metastore' with pid 75733
+2025-06-17 08:14:18,516 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:22,054 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:23,057 INFO spawned: 'metastore' with pid 75849
+2025-06-17 08:14:24,973 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:28,349 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:29,351 INFO spawned: 'metastore' with pid 75954
+2025-06-17 08:14:30,409 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:36,934 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:37,935 INFO spawned: 'metastore' with pid 76118
+2025-06-17 08:14:39,888 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:43,809 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:44,810 INFO spawned: 'metastore' with pid 76257
+2025-06-17 08:14:46,790 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:50,453 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:51,456 INFO spawned: 'metastore' with pid 76403
+2025-06-17 08:14:53,392 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:14:56,953 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:14:57,954 INFO spawned: 'metastore' with pid 76515
+2025-06-17 08:14:59,885 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:03,643 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:04,645 INFO spawned: 'metastore' with pid 76612
+2025-06-17 08:15:06,604 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:10,171 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:11,174 INFO spawned: 'metastore' with pid 76709
+2025-06-17 08:15:13,118 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:16,676 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:17,679 INFO spawned: 'metastore' with pid 76806
+2025-06-17 08:15:19,585 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:23,301 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:24,303 INFO spawned: 'metastore' with pid 76903
+2025-06-17 08:15:26,269 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:29,917 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:30,920 INFO spawned: 'metastore' with pid 77000
+2025-06-17 08:15:32,846 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:36,547 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:37,549 INFO spawned: 'metastore' with pid 77097
+2025-06-17 08:15:39,505 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:42,959 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:43,962 INFO spawned: 'metastore' with pid 77194
+2025-06-17 08:15:45,885 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:49,562 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:50,565 INFO spawned: 'metastore' with pid 77291
+2025-06-17 08:15:52,513 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:15:56,158 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:15:57,161 INFO spawned: 'metastore' with pid 77388
+2025-06-17 08:15:59,084 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:02,661 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:03,663 INFO spawned: 'metastore' with pid 77488
+2025-06-17 08:16:05,581 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:09,075 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:10,077 INFO spawned: 'metastore' with pid 77593
+2025-06-17 08:16:12,040 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:15,741 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:16,743 INFO spawned: 'metastore' with pid 77693
+2025-06-17 08:16:18,684 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:22,169 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:23,172 INFO spawned: 'metastore' with pid 77803
+2025-06-17 08:16:24,196 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:28,801 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:29,804 INFO spawned: 'metastore' with pid 77903
+2025-06-17 08:16:30,816 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:35,617 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:36,619 INFO spawned: 'metastore' with pid 78014
+2025-06-17 08:16:38,590 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:42,318 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:43,320 INFO spawned: 'metastore' with pid 78114
+2025-06-17 08:16:45,307 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:49,076 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:50,078 INFO spawned: 'metastore' with pid 78246
+2025-06-17 08:16:52,028 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:16:55,848 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:16:56,851 INFO spawned: 'metastore' with pid 78349
+2025-06-17 08:16:58,796 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:03,517 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:04,519 INFO spawned: 'metastore' with pid 78625
+2025-06-17 08:17:06,482 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:10,246 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:11,248 INFO spawned: 'metastore' with pid 78740
+2025-06-17 08:17:13,193 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:16,840 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:17,842 INFO spawned: 'metastore' with pid 78840
+2025-06-17 08:17:19,779 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:23,409 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:24,412 INFO spawned: 'metastore' with pid 78947
+2025-06-17 08:17:26,389 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:29,936 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:30,939 INFO spawned: 'metastore' with pid 79047
+2025-06-17 08:17:32,871 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:36,443 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:37,445 INFO spawned: 'metastore' with pid 79158
+2025-06-17 08:17:39,375 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:42,740 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:43,742 INFO spawned: 'metastore' with pid 79258
+2025-06-17 08:17:45,620 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:49,082 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:50,085 INFO spawned: 'metastore' with pid 79363
+2025-06-17 08:17:52,009 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:17:55,487 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:17:56,490 INFO spawned: 'metastore' with pid 79460
+2025-06-17 08:17:58,433 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:01,943 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:02,945 INFO spawned: 'metastore' with pid 79653
+2025-06-17 08:18:04,816 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:10,622 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:11,624 INFO spawned: 'metastore' with pid 79812
+2025-06-17 08:18:13,554 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:17,086 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:18,087 INFO spawned: 'metastore' with pid 79909
+2025-06-17 08:18:19,091 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:23,705 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:24,708 INFO spawned: 'metastore' with pid 80018
+2025-06-17 08:18:26,621 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:30,170 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:31,172 INFO spawned: 'metastore' with pid 80118
+2025-06-17 08:18:33,081 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:36,738 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:37,740 INFO spawned: 'metastore' with pid 80226
+2025-06-17 08:18:39,699 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:43,167 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:44,169 INFO spawned: 'metastore' with pid 80326
+2025-06-17 08:18:46,088 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:49,658 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:50,660 INFO spawned: 'metastore' with pid 80434
+2025-06-17 08:18:52,587 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:18:56,072 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:18:57,074 INFO spawned: 'metastore' with pid 80534
+2025-06-17 08:18:58,981 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:04,039 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:05,041 INFO spawned: 'metastore' with pid 80645
+2025-06-17 08:19:06,993 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:10,544 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:11,546 INFO spawned: 'metastore' with pid 80789
+2025-06-17 08:19:13,471 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:16,987 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:17,989 INFO spawned: 'metastore' with pid 80912
+2025-06-17 08:19:19,940 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:23,563 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:24,566 INFO spawned: 'metastore' with pid 81049
+2025-06-17 08:19:26,484 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:30,049 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:31,051 INFO spawned: 'metastore' with pid 81192
+2025-06-17 08:19:32,997 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:36,557 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:37,560 INFO spawned: 'metastore' with pid 81715
+2025-06-17 08:19:38,699 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:44,192 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:45,195 INFO spawned: 'metastore' with pid 82232
+2025-06-17 08:19:47,121 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:51,201 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:52,203 INFO spawned: 'metastore' with pid 82413
+2025-06-17 08:19:54,122 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:19:57,574 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:19:58,577 INFO spawned: 'metastore' with pid 82531
+2025-06-17 08:20:00,520 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:03,986 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:04,989 INFO spawned: 'metastore' with pid 82634
+2025-06-17 08:20:06,930 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:11,603 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:12,605 INFO spawned: 'metastore' with pid 82805
+2025-06-17 08:20:14,533 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:17,988 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:18,990 INFO spawned: 'metastore' with pid 82945
+2025-06-17 08:20:19,991 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:29,501 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:30,504 INFO spawned: 'metastore' with pid 83232
+2025-06-17 08:20:32,407 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:35,929 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:36,931 INFO spawned: 'metastore' with pid 83352
+2025-06-17 08:20:38,824 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:42,351 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:43,353 INFO spawned: 'metastore' with pid 83464
+2025-06-17 08:20:45,285 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:48,630 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:49,632 INFO spawned: 'metastore' with pid 83584
+2025-06-17 08:20:51,582 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:20:55,060 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:20:56,063 INFO spawned: 'metastore' with pid 83681
+2025-06-17 08:20:57,997 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:01,451 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:02,454 INFO spawned: 'metastore' with pid 83796
+2025-06-17 08:21:04,381 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:07,905 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:08,907 INFO spawned: 'metastore' with pid 83942
+2025-06-17 08:21:10,838 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:14,362 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:15,364 INFO spawned: 'metastore' with pid 84057
+2025-06-17 08:21:17,287 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:20,718 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:21,720 INFO spawned: 'metastore' with pid 84159
+2025-06-17 08:21:22,744 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:27,212 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:28,214 INFO spawned: 'metastore' with pid 84256
+2025-06-17 08:21:30,214 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:33,784 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:34,787 INFO spawned: 'metastore' with pid 84361
+2025-06-17 08:21:36,715 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:40,550 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:41,552 INFO spawned: 'metastore' with pid 84458
+2025-06-17 08:21:42,652 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:47,360 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:48,362 INFO spawned: 'metastore' with pid 84555
+2025-06-17 08:21:50,310 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:21:53,984 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:21:54,986 INFO spawned: 'metastore' with pid 84660
+2025-06-17 08:21:56,905 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:00,647 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:01,649 INFO spawned: 'metastore' with pid 84757
+2025-06-17 08:22:03,597 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:07,228 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:08,230 INFO spawned: 'metastore' with pid 84862
+2025-06-17 08:22:09,238 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:13,900 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:14,902 INFO spawned: 'metastore' with pid 84977
+2025-06-17 08:22:16,779 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:20,275 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:21,277 INFO spawned: 'metastore' with pid 85100
+2025-06-17 08:22:23,213 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:26,728 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:27,730 INFO spawned: 'metastore' with pid 85200
+2025-06-17 08:22:29,627 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:33,113 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:34,115 INFO spawned: 'metastore' with pid 85303
+2025-06-17 08:22:36,093 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:39,538 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:40,540 INFO spawned: 'metastore' with pid 85411
+2025-06-17 08:22:42,483 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:46,029 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:47,032 INFO spawned: 'metastore' with pid 85508
+2025-06-17 08:22:48,908 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:52,365 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:53,367 INFO spawned: 'metastore' with pid 85607
+2025-06-17 08:22:54,404 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:22:58,918 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:22:59,921 INFO spawned: 'metastore' with pid 85704
+2025-06-17 08:23:00,987 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:05,510 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:06,512 INFO spawned: 'metastore' with pid 85812
+2025-06-17 08:23:08,484 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:12,266 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:13,268 INFO spawned: 'metastore' with pid 85951
+2025-06-17 08:23:15,209 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:18,795 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:19,798 INFO spawned: 'metastore' with pid 86059
+2025-06-17 08:23:21,720 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:25,290 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:26,292 INFO spawned: 'metastore' with pid 86156
+2025-06-17 08:23:28,237 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:31,816 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:32,818 INFO spawned: 'metastore' with pid 86256
+2025-06-17 08:23:34,715 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:38,136 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:39,138 INFO spawned: 'metastore' with pid 86379
+2025-06-17 08:23:41,013 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-06-17 08:23:44,519 INFO exited: metastore (exit status 1; not expected)
+2025-06-17 08:23:45,520 INFO spawned: 'metastore' with pid 86491
+2025-06-17 08:23:47,500 INFO success: metastore entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
